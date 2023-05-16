@@ -3,6 +3,7 @@ export class Curso{
     _codigo;
     _nombre;
     _horas;
+    
 
     constructor(codigo, nombre, horas){
         this._codigo = codigo;
